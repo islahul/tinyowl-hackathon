@@ -1,0 +1,21 @@
+{
+  "name": "tinyowl-hackathon",
+  "version": "0.0.0",
+  "homepage": "https://github.com/islahul/tinyowl-hackathon",
+  "description": "reddit+-",
+  "main": "server.js",
+  "authors": [
+    "islahul"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.0"
+  }
+}
